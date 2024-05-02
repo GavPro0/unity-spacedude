@@ -4,7 +4,7 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 6277152026664103443
-    second: circle-1
+    second: ball-b
   - first:
       213: -996285667201416337
     second: die-1
@@ -13,25 +13,25 @@ TextureImporter:
     second: die-2
   - first:
       213: 7336388210466114642
-    second: circle-2
+    second: ball-t
   - first:
       213: -5097647541260762619
-    second: circle-5
+    second: ball-r
   - first:
       213: 3421206588688123152
     second: die-3
   - first:
       213: -4669188699835424353
-    second: circle-3
+    second: ball-g
   - first:
       213: 4010302209748201286
-    second: circle-6
+    second: ball-p
   - first:
       213: -2724868996660943631
-    second: circle-4
+    second: ball-w
   - first:
       213: 1215018767098533329
-    second: circle-7
+    second: ball-y
   - first:
       213: -6723461406285876323
     second: jump-1
@@ -106,7 +106,7 @@ TextureImporter:
     second: coin-8
   - first:
       213: -2549273120127555650
-    second: potion-1
+    second: potion
   - first:
       213: -3532133655125953119
     second: rock-1
@@ -115,19 +115,19 @@ TextureImporter:
     second: rock-2
   - first:
       213: 4157115847226850640
-    second: background-1
+    second: background
   - first:
       213: 2758995749061410447
-    second: floor-1
+    second: platform-m
   - first:
       213: -1210262882860465325
-    second: floor-2
+    second: platform-s
   - first:
       213: 9179272126259092667
-    second: floor-3
+    second: floor
   - first:
       213: 7668746392148799563
-    second: floor-4
+    second: platform-l
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -225,7 +225,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: circle-1
+      name: ball-b
       rect:
         serializedVersion: 2
         x: 55
@@ -288,7 +288,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle-2
+      name: ball-t
       rect:
         serializedVersion: 2
         x: 55
@@ -309,7 +309,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle-5
+      name: ball-r
       rect:
         serializedVersion: 2
         x: 118
@@ -351,7 +351,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle-3
+      name: ball-g
       rect:
         serializedVersion: 2
         x: 55
@@ -372,11 +372,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle-6
+      name: ball-p
       rect:
         serializedVersion: 2
         x: 118
-        y: 2459
+        y: 2458
         width: 47
         height: 45
       alignment: 0
@@ -393,7 +393,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle-4
+      name: ball-w
       rect:
         serializedVersion: 2
         x: 55
@@ -414,7 +414,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle-7
+      name: ball-y
       rect:
         serializedVersion: 2
         x: 118
@@ -939,7 +939,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: potion-1
+      name: potion
       rect:
         serializedVersion: 2
         x: 1201
@@ -1002,7 +1002,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: background-1
+      name: background
       rect:
         serializedVersion: 2
         x: 80
@@ -1023,7 +1023,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: floor-1
+      name: platform-m
       rect:
         serializedVersion: 2
         x: 91
@@ -1044,7 +1044,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: floor-2
+      name: platform-s
       rect:
         serializedVersion: 2
         x: 707
@@ -1065,7 +1065,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: floor-3
+      name: floor
       rect:
         serializedVersion: 2
         x: 1158
@@ -1086,7 +1086,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: floor-4
+      name: platform-l
       rect:
         serializedVersion: 2
         x: 92
